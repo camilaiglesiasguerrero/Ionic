@@ -1,0 +1,44 @@
+Instalar:
+node v7.4.0
+npm v4.0.5
+Cordova v7.0.1  
+  npm install -g Cordova
+  npm update -g cordova
+
+typescript v2.4.2
+
+
+----------------------------------------------------------------------------
+Creo una carpeta
+dentro de la carpeta shift+clic derecho creo consola.
+   ionic start 'nombre' --v2
+
+con el nombre le paso el template: tabs(por defecto)/slide menu/blanc/tutorial
+si pongo solo ionic start me permite cargar x "interfaz" nombre y templates
+
+
+En la consola dentro de la carpeta: ionic serve -> me abre la web (localhost:8100)
+
+Desde opciones de desarrollador puedo hacer que se vea como dispositivo movil
+
+----------------------------------------------------------------------------
+
+Dentro de src/pages/tengo los distintos componentes del menú, cada uno con su html, css y ts.
+
+----------------------------------------------------------------------------
+
+resources -> icon es el icono de la app 192x192 px
+          -> spash es el fondo q muestra cuando se abre 2208x2208 px
+
+Para cambiar tmñ de las imagenes
+imageconvertor.com
+photopea.com 
+
+
+Lo reemplazo en la carpeta resources
+
+------------
+en consola: ionic resources android - te reemplaza todas las imagenes de la carpeta android. 
+
+
+
