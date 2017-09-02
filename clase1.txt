@@ -5,7 +5,7 @@ Cordova v7.0.1
   npm install -g Cordova
   npm update -g cordova
 
-typescript v2.4.2
+typescript v2.4.2 (averiguo tsc -v)
 
 
 ----------------------------------------------------------------------------
@@ -23,14 +23,14 @@ Desde opciones de desarrollador puedo hacer que se vea como dispositivo movil
 
 ----------------------------------------------------------------------------
 
-Dentro de src/pages/tengo los distintos componentes del menú, cada uno con su html, css y ts.
+Dentro de src/pages/tengo los distintos componentes del menÃº, cada uno con su html, css y ts.
 
 ----------------------------------------------------------------------------
 
 resources -> icon es el icono de la app 192x192 px
           -> spash es el fondo q muestra cuando se abre 2208x2208 px
 
-Para cambiar tmñ de las imagenes
+Para cambiar tmÃ± de las imagenes
 imageconvertor.com
 photopea.com 
 
